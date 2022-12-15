@@ -1,8 +1,7 @@
 import streamlit
 
 streamlit.title('My app')
-streamlit.header('Heading')
-streamlit.text('Body 1')
-streamlit.text('Body 1')
-streamlit.text('Body 2')
-streamlit.text('Body 3')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
